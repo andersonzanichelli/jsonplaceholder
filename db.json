@@ -1,9 +1,22 @@
-{
-  "name":"John",
-  "age":30,
-  "cars": {
-    "car1":"Ford",
-    "car2":"BMW",
-    "car3":"Fiat"
-  }
- }
+[
+  "legends": [
+    {
+      "name":"Wattson",
+      "adjective":"Static Defender"
+    },
+    {
+      "name":"Pathfinder"
+      "adjective":"Foward Scout"
+    }
+  ],
+  "Games": [
+    {
+      "name": "Apex Legends",
+      "style": "Battle Royale"
+    },
+    {
+      "name": "CS-GO",
+      "style": "Accomplish Mission"
+    }
+  ]
+]
